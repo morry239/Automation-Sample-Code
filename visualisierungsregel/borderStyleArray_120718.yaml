@@ -1,0 +1,15 @@
+borderStyleArrayObjects:
+  - selector: id#path
+  - selector: id#path
+  - selector: id#path 
+  - selector: id#path
+  - selector: id#path
+  - selector: id#path
+schriftNameLastNames:
+ - selector: '//div[text()="userA"]'
+ - selector: "//div[text()='userB']"
+ - selector: "//div[text()='userC']"
+ - selector: "//div[text()='userD']"
+ - selector: "//div[text()='userE']"
+ - selector: "//div[text()='userF']"
+ - selector: "//div[text()='userG']"
