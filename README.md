@@ -6,5 +6,5 @@ In die Tage habe ich vor, andere Codebasis für z.B. API-Tests, Pentests, Securi
 Die Codebasis für Agentic-AI-gesteuerte Anwendungen kommt noch dazu. 
 
 Welcome to my portfolio! The content here will be continuously added and updated. At the moment you will see mostly source code for automated UI test scripts in Robotframework and Playwright for Python. Those scripts have been used to carry out regression, verification and feature tests for web and mobile apps. 
-I plan to push more source code for API, security and End-to-End tests also for testing web apps and agentic AI appas. 
+I plan to push more source code for API, security and End-to-End tests also for testing web apps and agentic AI apps. 
 So please check out this space for more! 
